@@ -7,3 +7,5 @@ It has these features:
 2. Inline Editing
 3. Column Resizing
 4. Smart Scrolling
+
+Project maintained by Faris Ansari
