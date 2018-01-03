@@ -1,7 +1,11 @@
 
 # My Data Table Project
 
+<<<<<<< HEAD
+NOW DATA modified by Lakshmi
+=======
 **DATA MODIFIED BY JITHIN ISAAC**
+>>>>>>> cf94f6efc6ed5177dd2204e37bdf7cff81b0005a
 
 Hello
 
@@ -13,4 +17,10 @@ It has these features:
 3. Column Resizing
 4. Smart Scrolling
 
+This is day two of sttp
+
+contribution by pooonam c
+
+
 Project maintained by Faris Ansari
+
