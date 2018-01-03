@@ -8,4 +8,10 @@ It has these features:
 3. Column Resizing
 4. Smart Scrolling
 
+This is day two of sttp
+
+contribution by pooonam c
+
+
 Project maintained by Faris Ansari
+
