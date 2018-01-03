@@ -1,6 +1,6 @@
-# My Data Table Project
+ My Data Table Project
 
-<<<<<<< HEAD
+
 NOW DATA modified by Lakshmi
 =======
 **DATA MODIFIED BY JITHIN ISAAC**
