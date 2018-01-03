@@ -1,10 +1,17 @@
+<<<<<<< HEAD
  My Data Table Project
 
+=======
+
+# My Data Table Project
+>>>>>>> 6ac7bd412b3c38d4dcd37e17ab12b710211d140c
 
 NOW DATA modified by Lakshmi
 =======
 **DATA MODIFIED BY JITHIN ISAAC**
 >>>>>>> cf94f6efc6ed5177dd2204e37bdf7cff81b0005a
+
+Hello
 
 This is the **Javascript** based Project for the modern web.
 
